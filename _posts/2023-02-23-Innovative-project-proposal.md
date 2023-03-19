@@ -25,7 +25,7 @@ This homework is to propose an innovative project and describe the key features,
   - 數據網
   - 除濕方式：除濕機、導水管
   - 聯網方式：WIFI
-  **所需相關技術：**
+* **所需相關技術：**<br>
   - 上網取得當日天氣
   - AI資料庫
   - 濕度偵測：DHT-22
