@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP32 OTA
+title: ESP32 IOT thingspeak
 author: [Jason shen]
 category: [Lecture]
 tags: [jekyll, ai]
