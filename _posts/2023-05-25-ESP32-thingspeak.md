@@ -5,14 +5,16 @@ author: [Jason shen]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-
+IOT thingspeak
 
 
 ---
-## Network
-![](https://github.com/jason0201/MCU-project/blob/main/images/OTA1.jpg?raw=true)
-![](https://github.com/jason0201/MCU-project/blob/main/images/OTA2.jpg?raw=true)
-![](https://github.com/jason0201/MCU-project/blob/main/images/OTA3.jpg?raw=true)
+## homework
+![](https://github.com/jason0201/MCU-project/blob/main/images/IOT_thingspeak1.png?raw=true)
+![](https://github.com/jason0201/MCU-project/blob/main/images/IOT_thingspeak2.png?raw=true)
+![](https://github.com/jason0201/MCU-project/blob/main/images/IOT_thingspeak3.png?raw=true)
+![](https://github.com/jason0201/MCU-project/blob/main/images/IOT_thingspeak4.png?raw=true)
+<iframe width="661" height="372" src="https://www.youtube.com/embed/UIyn4oD6L0Q" title="2023年5月25日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 <br>
 <br>
